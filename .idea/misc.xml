@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout-land/fragment_statistics.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout-land/fragment_tracking.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/fragment_run.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/fragment_settings.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/fragment_setup.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/fragment_statistics.xml" value="0.25" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/fragment_tracking.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/item_run.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/layout/marker_view.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/RunningAppYT/app/src/main/res/menu/toolbar_tracking_menu.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/LUCKY/AndroidStudioProjects/fitness app/app/src/main/res/layout/fragment_statistics.xml" value="0.10131712259371833" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
